@@ -1,4 +1,6 @@
 Este ejemplo usa StableDiffusionPipeline para crear imagenes con la ayuda de AI
+https://github.com/compVis/Stable-diffusion
+
 
 
 Abrir Colaboratory: Ve a Google Colab y abre un nuevo notebook o utiliza uno existente.
