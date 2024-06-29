@@ -1,5 +1,7 @@
 Este ejemplo usa StableDiffusionPipeline para crear imagenes con la ayuda de AI
 https://github.com/compVis/Stable-diffusion
+Un ejemplo más complicado del que contiene este repositorio se puede encontrar en:
+https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=vohUiWo-I2HQ
 
 
 
